@@ -1,0 +1,58 @@
+div{
+   border: solid blue;
+   margin: 1em;
+   padding: .2em;
+   height: 2em;
+   width: 10em;
+   text-align: center;
+}
+
+.inline{
+   display: inline;
+   background-color: aqua;
+   margin: 6em;
+   border: solid blue .5em;
+   padding: 2em;
+   width: 2em;
+   height: 5em;
+
+}
+
+.inline-block{
+   display: inline-block;
+   background-color: aqua;
+   margin: 6em;
+   border: solid blue .5em;
+   padding: 2em;
+   width: 15em;
+   /* height: 5em; */
+
+}
+
+span{
+   display: inline;
+   background-color: aqua;
+   margin: 2%;
+   border: solid blue .5em;
+   padding: 1em;
+   width: 1em;
+   height: 1em;
+}
+
+.container{
+   border: 5px solid grey;
+   margin:40px;
+}
+
+
+.box {
+   border: 5px solid rebeccapurple;
+   background-color: lightgray;
+   padding: 10px;
+   height: 100px;
+   /* try changing the margin properties: */
+   margin-top: -40px;
+   margin-right: 30px;
+   margin-bottom: 40px;
+   margin-left: 4em;
+ }
