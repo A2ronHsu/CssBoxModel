@@ -56,3 +56,8 @@ span{
    margin-bottom: 40px;
    margin-left: 4em;
  }
+
+.flexbox{
+   display: flex;
+   flex-direction: row;
+}
